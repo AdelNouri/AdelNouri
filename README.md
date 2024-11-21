@@ -1,4 +1,4 @@
-- 👋 Hi, I am Adel  Nouri
+- 👋 Hi, I am Adel Nouri
 
 <!---
 AdelNouri/AdelNouri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
