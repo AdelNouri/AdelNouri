@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Adel Nouri👋</h2>
 
 <p align="center">
-  Frontend developer and computer Engineering Student from Iran
+  Frontend developer and Computer Engineering Student from Iran
 </p>
 
 ---
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  🧠 A professional team-based chat app using React, TailwindCSS, WebSocket & Java backend.
+  🧠 A professional team-based web chat using React, TailwindCSS, WebSocket & Java backend.
 </p>
 
 
