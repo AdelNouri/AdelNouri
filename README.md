@@ -1,4 +1,6 @@
-<h2 align="center">Hi, I'm Adel Nouri👋</h2>
+<h2 align="center">
+  Hi, I'm Adel Nouri <img src="https://camo.githubusercontent.com/33fa1ecbfc674cb894fee42114ce8034fc32529090afc1ef7ef03b2d45c87271/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="waving hand" width="28" />
+</h2>
 
 <p align="center">
   Frontend developer and Computer Engineering Student from Iran
@@ -9,19 +11,15 @@
 ### 🚧 Current Project
 
 <p align="center">
-  <a href="https://github.com/teixayo/ByteTalk">
-    <img src="https://github.com/teixayo/ByteTalk/blob/main/frontend/src/assets/ByteTalkLogo.png" alt="NS Khat Logo" width="100" />
+  <a href="https://github.com/ali-heydari-py/Cartona">
+    <img src="https://github.com/ali-heydari-py/Cartona/blob/master/client/public/CartonaLogoLarge.png" alt="Cartona Logo" width="85" />
     <br />
-    <strong>Byte Talk – Real-time Web Chat</strong>
+    <strong>Cartona – Online Store Project</strong>
   </a>
 </p>
 
 <p align="center">
-  🧠 A professional team-based web chat using React, TailwindCSS, WebSocket & Java backend.
+  🛒 A modern online store with Django + DRF backend and React + TailwindCSS frontend, including shopping cart, vendors, products, favorites, chat, payments, and collections.
 </p>
 
 
-<!---
-AdelNouri/AdelNouri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
