@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/ali-heydari-py/Cartona">
-    <img src="https://github.com/ali-heydari-py/Cartona/blob/master/client/public/CartonaLogoLarge.png" alt="Cartona Logo" width="85" />
+    <img src="https://github.com/ali-heydari-py/Cartona/blob/master/client/public/logo/CartonaLogoLarge.png" alt="Cartona Logo" width="85" />
     <br />
     <strong>Cartona – Online Store Project</strong>
   </a>
