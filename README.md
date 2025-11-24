@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  Frontend developer and Computer Engineering Student from Iran
+  Frontend developer and Computer Engineering Student
 </p>
 
 ---
@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/ali-heydari-py/Cartona">
-    <img src="https://github.com/ali-heydari-py/Cartona/blob/master/client/public/logo/CartonaLogoLarge.png" alt="Cartona Logo" width="85" />
+    <img src="https://github.com/ali-heydari-py/Cartona/blob/master/client/public/logo/CartonaLogoLarge.png" alt="Cartona Logo" width="75" />
     <br />
     <strong>Cartona – Online Store Project</strong>
   </a>
