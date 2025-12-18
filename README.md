@@ -8,6 +8,22 @@
 
 ---
 
+### Skills & Technologies
+
+#### 🎨 Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
+
+#### ⚙️ Backend (Currently Learning)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+---
+
 ### 🚧 Current Project
 
 <p align="center">
@@ -21,5 +37,3 @@
 <p align="center">
   🛒 A modern online store with Django + DRF backend and React + TailwindCSS frontend, including shopping cart, vendors, products, favorites, chat, payments, and collections.
 </p>
-
-
