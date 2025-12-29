@@ -10,17 +10,27 @@
 
 ### Skills & Technologies
 
-#### 🎨 Frontend
+<h3>⚡ Frontend</h3>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" hspace="2" />
+  <img src="https://skillicons.dev/icons?i=css" hspace="2" />
+  <img src="https://skillicons.dev/icons?i=js" hspace="2" />
+  <img src="https://skillicons.dev/icons?i=ts" hspace="2" />
+  <img src="https://skillicons.dev/icons?i=react" hspace="2" />
+  <img src="https://skillicons.dev/icons?i=nextjs" hspace="2" />
+  <img src="https://skillicons.dev/icons?i=tailwind" hspace="2" />
+</div>
 
-#### ⚙️ Backend (Currently Learning)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
+<h3>⚙️ Backend (Currently Learning)</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" hspace="2"  />
+  <img src="https://skillicons.dev/icons?i=express" hspace="2" />
+  <img src="https://skillicons.dev/icons?i=mongodb" hspace="2" />
+</div>
+
 
 ---
 
@@ -37,3 +47,4 @@
 <p align="center">
   🛒 A modern online store with Django + DRF backend and React + TailwindCSS frontend, including shopping cart, vendors, products, favorites, chat, payments, and collections.
 </p>
+
