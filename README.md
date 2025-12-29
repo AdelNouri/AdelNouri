@@ -10,7 +10,7 @@
 
 ### Skills & Technologies
 
-<h3>⚡ Frontend</h3>
+<h4>⚡ Frontend</h4>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" hspace="2" />
@@ -23,7 +23,7 @@
 </div>
 
 
-<h3>⚙️ Backend (Currently Learning)</h3>
+<h4>⚙️ Backend (Currently Learning)</h4>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs" hspace="2"  />
