@@ -37,14 +37,14 @@
 ### 🚧 Current Project
 
 <p align="center">
-  <a href="https://github.com/ali-heydari-py/Cartona">
-    <img src="https://github.com/ali-heydari-py/Cartona/blob/master/client/public/logo/CartonaLogoLarge.png" alt="Cartona Logo" width="75" />
-    <br />
-    <strong>Cartona – Online Store Project</strong>
-  </a>
+  <img src="https://placehold.co/75x75/0f172a/64748b?text=?" alt="Hidden Project Logo" width="65" />
+  <br />
+  <strong>LumioAI – AI Chat SaaS</strong>
 </p>
 
 <p align="center">
-  🛒 A modern online store with Django + DRF backend and React + TailwindCSS frontend, including shopping cart, vendors, products, favorites, chat, payments, and collections.
+  Multi-model AI chat platform with real-time responses and modern UI.<br/>
+  Built with Next.js, TypeScript, and TailwindCSS.<br/>
+  🔒 Currently in private development.
 </p>
 
