@@ -29,6 +29,8 @@
   <img src="https://skillicons.dev/icons?i=nodejs" hspace="2"  />
   <img src="https://skillicons.dev/icons?i=express" hspace="2" />
   <img src="https://skillicons.dev/icons?i=mongodb" hspace="2" />
+  <img src="https://skillicons.dev/icons?i=mysql" hspace="2" />
+  <img src="https://skillicons.dev/icons?i=graphql" hspace="2" />
 </div>
 
 
